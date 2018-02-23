@@ -1,0 +1,8 @@
+Package: mytestpackage
+Type: Package
+Version: 0.0-1
+Author: Sur Herrera Paredes
+Maintainer: Sur Herrera Paredes <sur00mx@gmail.com>
+License: GPL-3
+Imports:
+    MASS
